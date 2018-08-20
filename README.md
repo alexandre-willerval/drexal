@@ -7,11 +7,13 @@ Dev of my personal website
 To get a copy of the project up and running on your local machine for 
 development and testing purposes, just clone the current Github repository.
 ```
-git clone https://github.com/alexandre-willerval/drexal/
+mkdir site_alex
+git clone https://github.com/alexandre-willerval/drexal/ site_alex
 ```
 
-If you to recreate the same full dev environment as I have, you can add a "startbootstrap-resume" directory.
+If you want to recreate the same full dev environment as I have, you can add a "startbootstrap-resume" directory.
 ```
+cd site_alex
 mkdir startbootstrap-resume
 git clone https://github.com/BlackrockDigital/startbootstrap-resume startbootstrap-resume
 ```
